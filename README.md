@@ -4,7 +4,7 @@ Interactive Power BI dashboard analysing retail sales from 2015 to 2018.
 
 
 
-![Dashboard Overview](Dashboard%20overview.png)
+![Dashboard Overview](Dashboard%20Overview.png)
 
 
 
